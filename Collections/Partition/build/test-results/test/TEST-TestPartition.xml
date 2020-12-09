@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestPartition" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-08T19:30:45" hostname="HOME-PC" time="0.055">
+  <properties/>
+  <testcase name="testGetCustomersWhoHaveMoreUndeliveredOrdersThanDelivered" classname="TestPartition" time="0.055"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
